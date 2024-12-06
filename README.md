@@ -17,26 +17,6 @@
   - Desarrollo e implementación de una cerradura digital para el área de almacén.
 - 📫 **Contacto:** [alejandroluissalaz@gmail.com](mailto:alejandroluissalaz@gmail.com)
 
----
-
-### Conéctate conmigo:
-<p align="left">
-  <a href="https://twitter.com/alejandros94027" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/alejandro-salazar-luis" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/alejandro.salazar.luis" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/xalejandro609" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### Tecnologías y Herramientas:
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
