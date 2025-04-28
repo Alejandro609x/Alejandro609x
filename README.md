@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Alejandro Salazar Luis</h1>
-<h3 align="center">Técnico Superior Universitario en Infraestructura de Redes Digitales e Ingeniero en Infraestructura de Redes Digitales y Ciberseguridad.</h3>
+<h3 align="center">Técnico Superior Universitario en Infraestructura de Redes Digitales e Ingeniero en Redes Digitales y Ciberseguridad.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alejandro609x&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="alejandro609x" />
