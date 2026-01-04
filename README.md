@@ -131,23 +131,6 @@ Actualmente me desempeño en el área de **Calidad y Seguridad Informática**, p
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro609x&show_icons=true&locale=es&layout=compact"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro609x&show_icons=true&locale=es"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro609x&locale=es"/>
-</p>
-
----
 
 ## 📫 Contacto
 
