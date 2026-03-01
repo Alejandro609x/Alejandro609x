@@ -23,17 +23,13 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
   <img src="https://streak-stats.demolab.com?user=alejandro609x&theme=tokyonight&hide_border=false" />
 </p>
 
----
-
-## 🚀 Proyectos Recientes y Lenguajes Más Usados
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro609x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro609x&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alejandro609x&theme=tokyonight&hide_border=true" height="165"/>
+<a href="https://github.com/Alejandro609x">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alejandro609x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro609x&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 </p>
 
 ---
