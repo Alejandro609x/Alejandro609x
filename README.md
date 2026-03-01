@@ -25,6 +25,24 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
 
 ---
 
+## 🚀 Proyectos Recientes y Lenguajes Más Usados
+
+<p align="center">
+  <!-- Proyectos recientes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro609x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+
+  <!-- Lenguajes más usados -->
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro609x&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Racha de contribuciones -->
+  <img src="https://streak-stats.demolab.com?user=Alejandro609x&theme=tokyonight&hide_border=false" height="165"/>
+</p>
+
+---
+
 ## 🎯 Objetivo Profesional
 
 * Fortalecer mi experiencia en **auditoría y seguridad web**
