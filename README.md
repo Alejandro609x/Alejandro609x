@@ -9,131 +9,135 @@ Ingeniero en Redes Digitales y Ciberseguridad | Auditoría y Seguridad Web | Red
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🚀 Perfil Profesional
 
-Soy **Ingeniero en Redes Digitales y Ciberseguridad**, con experiencia práctica en **auditoría de seguridad web, análisis de vulnerabilidades, monitoreo de correo corporativo y protección de endpoints** en entornos gubernamentales y empresariales.
+Ingeniero en **Redes Digitales y Ciberseguridad** enfocado en **detección proactiva de vulnerabilidades, hardening de infraestructuras y automatización de procesos de seguridad** en entornos gubernamentales y empresariales.
 
-Me especializo en **evaluación técnica de riesgos, hardening, análisis de código y automatización de procesos de seguridad**, combinando sólidos conocimientos en redes, sistemas Linux y scripting con Python.
-
-Actualmente me desempeño en el área de **Calidad y Seguridad Informática**, participando activamente en la **detección, análisis y mitigación de vulnerabilidades**, así como en el cumplimiento de normativas y mejora continua de la postura de seguridad.
+Especialista en **evaluación técnica de riesgos, análisis de seguridad web y scripting con Python**, con sólida base en redes, sistemas Linux y monitoreo de plataformas críticas.
 
 ---
 
-## 🎯 Objetivo profesional
+## 📊 Estadísticas de GitHub
 
-- Fortalecer mi experiencia en **auditoría y análisis de seguridad web**
-- Aplicar **metodologías avanzadas de pentesting y pruebas técnicas**
-- Optimizar procesos de **monitoreo y respuesta a incidentes**
-- Participar en proyectos de **hardening y cumplimiento normativo**
-- Automatizar tareas de auditoría y análisis con **Python**
-- Obtener certificaciones clave en **ciberseguridad y redes**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandro609x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Estad%C3%ADsticas%20de%20Alejandro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro609x&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alejandro609x&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alejandro609x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+</p>
+
+---
+
+## 🎯 Objetivo Profesional
+
+* Fortalecer mi experiencia en **auditoría y seguridad web**
+* Aplicar **metodologías avanzadas de pentesting**
+* Optimizar procesos de **monitoreo y respuesta a incidentes**
+* Implementar **hardening y cumplimiento normativo**
+* Automatizar auditorías de seguridad con **Python**
+* Obtener certificaciones avanzadas en **ciberseguridad y redes**
 
 ---
 
 ## 🏢 Experiencia Profesional
 
-### 🔐 Secretaría de Administración y Finanzas  
-**JUD de Seguridad Informática – Coordinación de Calidad y Seguridad TI**  
+### 🔐 Secretaría de Administración y Finanzas
+
+**JUD de Seguridad Informática – Coordinación de Calidad y Seguridad TI**
 📍 Ciudad de México | 🗓 Jun 2025 – Presente
 
-- Análisis de vulnerabilidades en **sistemas y aplicaciones web**
-- Ejecución de pruebas técnicas:
-  - Fuzzing
-  - Escaneo de cabeceras HTTP
-  - Revisión de configuraciones inseguras
-- Elaboración de **reportes técnicos** con:
-  - Hallazgos
-  - Evidencias
-  - Explotación controlada
-  - Recomendaciones y mitigaciones
-- Administración y monitoreo de:
-  - **Exchange**
-  - Soluciones antispam
-  - Protección de endpoints (**GravityZone y Kaspersky**)
-- Revisión de código con **SonarQube**
-- Gestión de incidentes y cumplimiento normativo
-- Manejo responsable de información confidencial
+* Análisis de vulnerabilidades en **aplicaciones web y sistemas**
+* Fuzzing y revisión de **cabeceras HTTP**
+* Detección de **configuraciones inseguras**
+* Elaboración de reportes técnicos con explotación controlada
+* Administración de:
 
-**Tecnologías clave:**  
-`Seguridad Web` · `Auditoría` · `Exchange` · `Antispam` · `GravityZone` · `Kaspersky` · `SonarQube` · `Gestión de Incidentes`
+  * Exchange
+  * Antispam
+  * Endpoint Security (GravityZone y Kaspersky)
+* Revisión de código con **SonarQube**
+* Gestión de incidentes y cumplimiento normativo
+
+**Stack:**
+`Seguridad Web` · `Pentesting` · `Exchange` · `GravityZone` · `Kaspersky` · `SonarQube`
 
 ---
 
-### 🌐 Grupo Neoexpert – Consultores  
-**Becario en Redes y Telecomunicaciones**  
+### 🌐 Grupo Neoexpert – Consultores
+
+**Becario en Redes y Telecomunicaciones**
 📍 Tecámac, México | 🗓 Ene 2025 – Abr 2025
 
-- Evaluación técnica de equipos de telecomunicaciones
-- Configuración y análisis de:
-  - Routers
-  - Switches
-  - Access Points
-  - Antenas
-  - Cámaras
-- Elaboración de reportes técnicos
-- Propuestas de mejora en mantenimiento y sustitución
-- Soporte técnico en distintas infraestructuras
+* Evaluación de infraestructura de telecomunicaciones
+* Configuración de routers, switches y APs
+* Análisis de antenas y CCTV
+* Elaboración de reportes técnicos
+* Soporte a infraestructura de red
 
 ---
 
-### 🏭 Geek Factory  
-**Becario en Ventas y Almacén**  
+### 🏭 Geek Factory
+
+**Becario en Ventas y Almacén**
 📍 Ciudad de México | 🗓 Mar 2023 – Ago 2023
 
-- Optimización de inventarios
-- Atención a clientes y ventas
-- Mantenimiento básico de:
-  - Arduino
-  - Raspberry Pi
-- Desarrollo e implementación de una **cerradura digital**
+* Optimización de inventarios
+* Soporte técnico básico
+* Mantenimiento de Arduino y Raspberry Pi
+* Desarrollo de **cerradura digital**
 
 ---
 
 ## 🎓 Educación
 
-- **Ingeniería en Redes Digitales y Ciberseguridad**  
-  Universidad Tecnológica de Tecámac  
-  *Sept 2023 – Abr 2025*
+**Ingeniería en Redes Digitales y Ciberseguridad**
+Universidad Tecnológica de Tecámac
+*2023 – 2025*
 
-- **TSU en Tecnologías de la Información**  
-  Especialidad en Infraestructura de Redes Digitales  
-  *Sept 2021 – Ago 2023*
+**TSU en Tecnologías de la Información**
+Infraestructura de Redes Digitales
+*2021 – 2023*
 
 ---
 
-## 🧠 Certificaciones y Formación Destacada
+## 🧠 Certificaciones
 
-- 🐳 **Seguridad en Contenedores Docker y Kubernetes** – UCM
-- 🐍 **Python Essentials 1 & 2** – Cisco Networking Academy
-- 🔐 **Google Cybersecurity Professional Certificate**
-- 🌐 **CCNA v7 – Cisco Networking Academy**
-- 🛡 **Junior Cybersecurity Analyst Career Path**
-- 🧪 Ethical Hacker
-- 🐧 NDG Linux Essentials
-- ⚙ Network Defense
-- 🧾 Perito Informático Forense
-- 📊 Introduction to Data Science
-- 🔄 Gestión de Proyectos (Google – Agile)
+* 🐳 Seguridad en Contenedores Docker y Kubernetes – UCM
+* 🐍 Python Essentials 1 & 2 – Cisco
+* 🔐 Google Cybersecurity Professional Certificate
+* 🌐 CCNA v7 – Cisco Networking Academy
+* 🛡 Junior Cybersecurity Analyst
+* 🧪 Ethical Hacker
+* 🐧 NDG Linux Essentials
+* ⚙ Network Defense
+* 🧾 Perito Informático Forense
+* 📊 Introduction to Data Science
+* 🔄 Google Agile Project Management
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,git,mysql,postgres,mongodb,php,arduino,bash" />
 </p>
 
+---
 
 ## 📫 Contacto
 
-📧 **Email:** [alejandroluissalaz@gmail.com](mailto:alejandroluissalaz@gmail.com)  
-📍 **Ubicación:** Tecámac, Estado de México  
-🔐 **Intereses:** Seguridad Web · Auditoría · Pentesting · Automatización · Redes
+📧 **Email:** [alejandroluissalaz@gmail.com](mailto:alejandroluissalaz@gmail.com)
+📍 **Ubicación:** Tecámac, Estado de México
+🔐 **Intereses:** Seguridad Web · Pentesting · Automatización · Blue Team · Redes
+
+---
+
+<p align="center">
+  <i>⚡ Perfil enfocado en seguridad ofensiva y defensiva</i>
+</p>
