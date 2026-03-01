@@ -19,6 +19,9 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
 
 ## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alejandro609x&theme=tokyonight&hide_border=false" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alejandro609x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
@@ -133,3 +136,4 @@ Infraestructura de Redes Digitales
 <p align="center">
   <i>⚡ Perfil enfocado en seguridad ofensiva y defensiva</i>
 </p>
+
