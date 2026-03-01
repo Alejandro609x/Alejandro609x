@@ -9,7 +9,7 @@ Ingeniero en Redes Digitales y Ciberseguridad | Auditoría y Seguridad Web | Red
 
 ---
 
-## 🚀 Perfil Profesional
+## 🗂️ Perfil Profesional
 
 Ingeniero en **Redes Digitales y Ciberseguridad** enfocado en **detección proactiva de vulnerabilidades, hardening de infraestructuras y automatización de procesos de seguridad** en entornos gubernamentales y empresariales.
 
@@ -17,7 +17,7 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alejandro609x&theme=tokyonight&hide_border=false" />
