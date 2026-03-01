@@ -19,14 +19,6 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandro609x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Estad%C3%ADsticas%20de%20Alejandro"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro609x&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandro609x&theme=tokyonight&hide_border=false" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alejandro609x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
