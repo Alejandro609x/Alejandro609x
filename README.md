@@ -159,6 +159,16 @@ Infraestructura de Redes Digitales
 
 ---
 
+### 🛠️ Software y DevOps
+
+<p>
+<img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+</p>
+
+---
+
 ### 🔐 Herramientas de Ciberseguridad
 
 <p>
@@ -169,16 +179,14 @@ Infraestructura de Redes Digitales
 <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-PenTesting-2E2E2E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge"/>
-</p>
-
----
-
-### 🛠️ Software y DevOps
-
-<p>
-<img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-<img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+<img src="https://img.shields.io/badge/Parrot-Security-39A3DC?style=for-the-badge&logo=parrot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-PenTesting-557C94?style=for-the-badge&logo=kali&logoColor=white"/>
+<img src="https://img.shields.io/badge/VM-Virtualization-6C6C6C?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hack%20The%20Box-PenTesting-5A2D82?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hydra-Password%20Cracking-CC0000?style=for-the-badge&logo=hydra&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burpsuite-Web%20Security-FE7A0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wfuzz-Web%20Fuzzer-3C3C3C?style=for-the-badge"/>
 </p>
 
 ---
