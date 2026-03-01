@@ -116,7 +116,17 @@ Infraestructura de Redes Digitales
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,git,mysql,postgres,mongodb,php,arduino,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,mysql,postgres,mongodb,php,arduino,nginx,redis,html,css,js,ts,vscode,githubactions,ubuntu,debian,windows" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaspersky-Security-009900?style=for-the-badge&logo=kaspersky&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitdefender-Security-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-PenTesting-2E2E2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge" />
 </p>
 
 ---
