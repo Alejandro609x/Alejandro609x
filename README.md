@@ -23,15 +23,6 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
   <img src="https://streak-stats.demolab.com?user=alejandro609x&theme=tokyonight&hide_border=false" />
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alejandro609x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro609x&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Objetivo Profesional
 
 * Fortalecer mi experiencia en **auditoría y seguridad web**
