@@ -178,7 +178,7 @@ Infraestructura de Redes Digitales
 <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-214478?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-PenTesting-2E2E2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DGTC-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Parrot-Security-39A3DC?style=for-the-badge&logo=parrot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-PenTesting-557C94?style=for-the-badge&logo=kali&logoColor=white"/>
 <img src="https://img.shields.io/badge/VM-Virtualization-6C6C6C?style=for-the-badge&logo=vmware&logoColor=white"/>
