@@ -39,7 +39,7 @@ Especialista en **evaluación técnica de riesgos, análisis de seguridad web y 
 ### 🔐 Secretaría de Administración y Finanzas
 
 **JUD de Seguridad Informática – Coordinación de Calidad y Seguridad TI**  
-📍 Ciudad de México | 🗓 Jun 2025 – Presente
+📍 Ciudad de México | 🗓 Jun 2025 – Abr 2026
 
 * Análisis de vulnerabilidades en **aplicaciones web y sistemas**
 * Fuzzing y revisión de **cabeceras HTTP**
